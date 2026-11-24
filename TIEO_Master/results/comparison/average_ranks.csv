@@ -1,0 +1,8 @@
+method,average_rank
+quantile,3.4625
+adaptive_zscore,3.675
+relative_deviation,3.7
+decreasing_autonomy_weight,4.075
+stagnation_restart,4.15
+evaluation_aware_reward,4.45
+baseline,4.4875

@@ -1,0 +1,12 @@
+{
+  "screen_best_fitness": 0.3148546487092972,
+  "final_validation_fitness": 0.959711492061615,
+  "final_validation_relative_l2": 0.6568871140480042,
+  "full_grid_relative_l2": 0.6391381707996798,
+  "full_grid_rmse": 0.38928092793205604,
+  "maximum_absolute_error": 1.9213225356822197,
+  "pde_rmse": 6.056487560272217,
+  "outer_evaluations": 30,
+  "unique_training_trials": 29,
+  "local_refinement_evaluations": 2
+}

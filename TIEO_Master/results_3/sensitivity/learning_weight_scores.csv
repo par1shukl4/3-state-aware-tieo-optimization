@@ -1,0 +1,6 @@
+method,rank_score_0_100,weight
+tieo_weight_0_1,49.375,0.1
+tieo_weight_0_3,54.37499999999999,0.3
+tieo_weight_0_5,45.9375,0.5
+tieo_weight_0_7,40.93750000000001,0.7
+tieo_weight_0_9,59.375,0.9

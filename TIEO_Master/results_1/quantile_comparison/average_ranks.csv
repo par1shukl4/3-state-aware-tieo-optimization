@@ -1,0 +1,7 @@
+method,average_rank
+quantile_local_refinement,2.475
+quantile,3.5
+quantile_decreasing_autonomy,3.5875
+quantile_adaptive_thresholds,3.6875
+quantile_diversity_restart,3.8125
+quantile_minimum_occupancy,3.9375

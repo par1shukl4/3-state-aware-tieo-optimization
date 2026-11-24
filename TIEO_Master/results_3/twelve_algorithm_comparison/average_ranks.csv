@@ -1,0 +1,13 @@
+method,average_rank
+quantile_local_refinement,2.9
+baseline,4.3625
+marine_predators,5.1125
+wolf_pack_search,5.65
+pso,5.775
+sine_cosine,6.6375
+differential_evolution,7.0375
+gravitational_search,7.3125
+satin_bowerbird,7.4
+salp_swarm,8.125
+simulated_annealing,8.225
+abc,9.4625

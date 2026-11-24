@@ -1,0 +1,201 @@
+method,reference_method,benchmark_id,benchmark,mean_error_baseline,mean_error_method,median_paired_difference,run_wins,run_ties,run_losses,wilcoxon_p,holm_p,outcome_vs_baseline
+quantile_adaptive_thresholds,quantile,1,Sphere,1.2488270991538769e-17,5.353242638569453e-15,5.3407543675779145e-15,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,2,Sum Squares,5.9858325625648105e-12,1.2844473951004704e-10,1.2245890694748223e-10,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,3,Sum Different Powers,2.1138708538321666e-19,1.0250488521502625e-18,8.136617667670459e-19,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,4,Rotated Hyper-Ellipsoid,4.857955325604923e-12,9.52888111994154e-15,-4.848426444484982e-12,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,5,Axis Parallel Hyper-Ellipsoid,5.023890373118454e-14,4.9640121447587643e-14,-5.987822835968936e-16,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,6,Zakharov,3.980349061630585e-09,4.532875146029038e-07,4.493071655412732e-07,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,7,Schwefel 1.2,3.657796193595176e-15,6.776849814549835e-10,6.776813236587899e-10,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,8,Schwefel 2.22,1.133496038600579e-06,8.299978558346267e-07,-3.034981827659523e-07,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,9,Booth,7.651950780643815e-29,4.1020767071492614e-29,-3.549874073494553e-29,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,10,Matyas,5.237092950402386e-33,2.1181954678838816e-29,2.1176717585888414e-29,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,11,Rosenbrock,0.011488250669161166,0.01215314879492325,0.0006648981257620836,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,12,Beale,8.816136913427011e-30,5.569142286706572e-28,5.480980917572302e-28,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,13,Three-Hump Camel,7.695038085755008e-30,3.498685505998398e-30,-4.1963525797566106e-30,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,14,Six-Hump Camel,4.440892098500626e-16,4.440892098500626e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,15,Bukin N.6,0.0006122888194706633,0.03856821759274014,0.037955928773269476,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,16,Dixon-Price,0.12288366433077566,0.12288405310757872,3.8877680305637874e-07,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,17,Colville,6.117944133270461e-06,0.0010272026837241342,0.0010210847395908638,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,18,Powell,1.919087322938888e-19,9.785400611005424e-29,-1.919087321960348e-19,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,19,Rastrigin,2.7114310796605423e-11,5.8548721426632255e-12,-2.1259438653942198e-11,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,20,Ackley,8.839186849129987e-08,6.0385514366601e-09,-8.235331705463977e-08,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,21,Griewank,4.551914400963142e-14,3.6637359812630166e-15,-4.18554080283684e-14,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,22,Schwefel,2111.3571386358053,2591.0990294727508,479.74189083694546,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,23,Levy,1.4268222005744488e-05,8.180269504652937e-06,-6.087952501091551e-06,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,24,Michalewicz,4.440892098500626e-16,6.661338147750939e-16,2.220446049250313e-16,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,25,Styblinski-Tang,0.004622054798346653,0.028449546687397742,0.02382749188905109,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,26,Eggholder,4.150788299739361e-07,1.0235453373752534e-08,-4.0484337660018355e-07,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,27,Drop-Wave,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,28,Schaffer N.2,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,29,Schaffer N.4,4.274358644806853e-15,4.440892098500626e-16,-3.83026943495679e-15,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,30,De Jong N.5,1.9841013190304588,9.992007221626409e-16,-1.984101319030458,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,31,Shekel m=10,5.407929030064546,5.407929030064546,0.0,0,1,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,32,"Perm d,beta",104068502149873.77,165600938118521.7,61532435968647.92,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,33,Branin,1.6653345369377348e-16,1.6653345369377348e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,34,Goldstein-Price,7.149836278586008e-14,7.771561172376096e-14,6.217248937900877e-15,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,35,Easom,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,36,Hartmann 3D,2.3604881023153723e-06,2.360488096986302e-06,-5.329070518200751e-15,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,37,Hartmann 4D,2.224003203821212e-10,2.2239365904397346e-10,-6.661338147750939e-15,1,0,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,38,Hartmann 6D,3.375077994860476e-14,3.952393967665557e-14,5.773159728050814e-15,0,0,1,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,39,Forrester,3.552713678800501e-15,3.552713678800501e-15,0.0,0,1,0,1.0,1.0,tie
+quantile_adaptive_thresholds,quantile,40,Katsuura,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,1,Sphere,1.2488270991538769e-17,9.848876980718555e-12,9.848864492447564e-12,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,2,Sum Squares,5.9858325625648105e-12,9.543582715517464e-12,3.557750152952654e-12,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,3,Sum Different Powers,2.1138708538321666e-19,5.258101738402433e-20,-1.5880606799919232e-19,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,4,Rotated Hyper-Ellipsoid,4.857955325604923e-12,7.60210475997413e-08,7.601618964441569e-08,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,5,Axis Parallel Hyper-Ellipsoid,5.023890373118454e-14,4.130757875045462e-12,4.080518971314277e-12,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,6,Zakharov,3.980349061630585e-09,1.1588921780766452e-10,-3.8644598438229205e-09,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,7,Schwefel 1.2,3.657796193595176e-15,2.6194984320662717e-11,2.6191326524469123e-11,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,8,Schwefel 2.22,1.133496038600579e-06,4.3387682095691146e-07,-6.996192176436675e-07,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,9,Booth,7.651950780643815e-29,6.310887241768094e-28,5.545692163703713e-28,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,10,Matyas,5.237092950402386e-33,1.4529910402065955e-29,1.4524673309115553e-29,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,11,Rosenbrock,0.011488250669161166,0.026593036756821717,0.015104786087660551,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,12,Beale,8.816136913427011e-30,3.529366771446718e-27,3.520550634533291e-27,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,13,Three-Hump Camel,7.695038085755008e-30,1.6784875100441517e-29,9.089837014686509e-30,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,14,Six-Hump Camel,4.440892098500626e-16,4.440892098500626e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,15,Bukin N.6,0.0006122888194706633,0.0006104833350736705,-1.8054843969928002e-06,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,16,Dixon-Price,0.12288366433077566,0.12259948248634386,-0.0002841818444317967,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,17,Colville,6.117944133270461e-06,0.07566028891126098,0.0756541709671277,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,18,Powell,1.919087322938888e-19,3.121519489288644e-26,-1.919087010786939e-19,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,19,Rastrigin,2.7114310796605423e-11,2.8421709430404007e-13,-2.6830093702301383e-11,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,20,Ackley,8.839186849129987e-08,9.439820036760693e-09,-7.895204845453918e-08,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,21,Griewank,4.551914400963142e-14,1.2212453270876722e-14,-3.3306690738754696e-14,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,22,Schwefel,2111.3571386358053,1894.8082021290156,-216.5489365067897,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,23,Levy,1.4268222005744488e-05,0.00011471721533953951,0.00010044899333379503,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,24,Michalewicz,4.440892098500626e-16,2.220446049250313e-16,-2.220446049250313e-16,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,25,Styblinski-Tang,0.004622054798346653,0.004131660553639449,-0.000490394244707204,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,26,Eggholder,4.150788299739361e-07,1.0235453373752534e-08,-4.0484337660018355e-07,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,27,Drop-Wave,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,28,Schaffer N.2,0.0,4.440892098500626e-15,4.440892098500626e-15,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,29,Schaffer N.4,4.274358644806853e-15,3.885780586188048e-16,-3.885780586188048e-15,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,30,De Jong N.5,1.9841013190304588,1.9841013190222259,-8.232969861410311e-12,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,31,Shekel m=10,5.407929030064546,5.40792903007039,5.844214001626824e-12,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,32,"Perm d,beta",104068502149873.77,10070511167538.63,-93997990982335.14,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,33,Branin,1.6653345369377348e-16,1.6653345369377348e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,34,Goldstein-Price,7.149836278586008e-14,6.068479052601106e-12,5.9969806898152456e-12,0,0,1,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,35,Easom,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,36,Hartmann 3D,2.3604881023153723e-06,2.360488096986302e-06,-5.329070518200751e-15,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,37,Hartmann 4D,2.224003203821212e-10,2.224003203821212e-10,0.0,0,1,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,38,Hartmann 6D,3.375077994860476e-14,5.329070518200751e-15,-2.842170943040401e-14,1,0,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,39,Forrester,3.552713678800501e-15,3.552713678800501e-15,0.0,0,1,0,1.0,1.0,tie
+quantile_decreasing_autonomy,quantile,40,Katsuura,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,1,Sphere,1.2488270991538769e-17,2.2632055052868252e-14,2.2619566781876714e-14,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,2,Sum Squares,5.9858325625648105e-12,1.0870553322451083e-12,-4.898777230319702e-12,1,0,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,3,Sum Different Powers,2.1138708538321666e-19,1.731521154803613e-18,1.5201340694203964e-18,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,4,Rotated Hyper-Ellipsoid,4.857955325604923e-12,2.7064246657223332e-09,2.7015667103967285e-09,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,5,Axis Parallel Hyper-Ellipsoid,5.023890373118454e-14,1.2382410630687193e-11,1.2332171726956008e-11,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,6,Zakharov,3.980349061630585e-09,4.2634494363216835e-09,2.831003746910986e-10,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,7,Schwefel 1.2,3.657796193595176e-15,9.834646641925111e-15,6.176850448329935e-15,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,8,Schwefel 2.22,1.133496038600579e-06,1.133496038600579e-06,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,9,Booth,7.651950780643815e-29,7.888609052210118e-30,-6.863089875422803e-29,1,0,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,10,Matyas,5.237092950402386e-33,9.491354250667854e-32,8.967644955627616e-32,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,11,Rosenbrock,0.011488250669161166,0.011488250669161166,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,12,Beale,8.816136913427011e-30,2.9727853434704508e-27,2.9639692065570237e-27,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,13,Three-Hump Camel,7.695038085755008e-30,2.379251694611227e-30,-5.315786391143781e-30,1,0,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,14,Six-Hump Camel,4.440892098500626e-16,4.440892098500626e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,15,Bukin N.6,0.0006122888194706633,0.0006122888194569853,-1.3677969347425378e-14,1,0,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,16,Dixon-Price,0.12288366433077566,0.12631731382393843,0.0034336494931627715,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,17,Colville,6.117944133270461e-06,7.153077046294262e-06,1.0351329130238007e-06,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,18,Powell,1.919087322938888e-19,2.8400610251636774e-25,-1.9190844828778628e-19,1,0,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,19,Rastrigin,2.7114310796605423e-11,3.115019353572279e-11,4.035882739117369e-12,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,20,Ackley,8.839186849129987e-08,1.305462444811667e-07,4.215437598986682e-08,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,21,Griewank,4.551914400963142e-14,4.3365311341858614e-13,3.8813396940895473e-13,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,22,Schwefel,2111.3571386358053,2111.3571386358053,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,23,Levy,1.4268222005744488e-05,1.4268222005744488e-05,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,24,Michalewicz,4.440892098500626e-16,6.661338147750939e-16,2.220446049250313e-16,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,25,Styblinski-Tang,0.004622054798346653,0.004622054798346653,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,26,Eggholder,4.150788299739361e-07,4.1033956676983507e-07,-4.7392632041010074e-09,1,0,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,27,Drop-Wave,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,28,Schaffer N.2,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,29,Schaffer N.4,4.274358644806853e-15,3.7309044742528386e-13,3.68816088780477e-13,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,30,De Jong N.5,1.9841013190304588,1.9841013190304588,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,31,Shekel m=10,5.407929030064546,5.407929030064546,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,32,"Perm d,beta",104068502149873.77,104068502149873.77,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,33,Branin,1.6653345369377348e-16,1.6653345369377348e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,34,Goldstein-Price,7.149836278586008e-14,7.815970093361102e-14,6.661338147750939e-15,0,0,1,1.0,1.0,tie
+quantile_diversity_restart,quantile,35,Easom,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,36,Hartmann 3D,2.3604881023153723e-06,2.360488096986302e-06,-5.329070518200751e-15,1,0,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,37,Hartmann 4D,2.224003203821212e-10,2.224003203821212e-10,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,38,Hartmann 6D,3.375077994860476e-14,3.1086244689504383e-15,-3.064215547965432e-14,1,0,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,39,Forrester,3.552713678800501e-15,3.552713678800501e-15,0.0,0,1,0,1.0,1.0,tie
+quantile_diversity_restart,quantile,40,Katsuura,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,1,Sphere,1.2488270991538769e-17,1.8098159963383247e-28,-1.2488270991357787e-17,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,2,Sum Squares,5.9858325625648105e-12,2.5140118214009708e-29,-5.9858325625648105e-12,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,3,Sum Different Powers,2.1138708538321666e-19,6.939411024061516e-36,-2.1138708538321666e-19,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,4,Rotated Hyper-Ellipsoid,4.857955325604923e-12,4.050975255030171e-17,-4.8579148158523726e-12,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,5,Axis Parallel Hyper-Ellipsoid,5.023890373118454e-14,2.462492903656016e-30,-5.023890373118454e-14,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,6,Zakharov,3.980349061630585e-09,3.833672394919542e-09,-1.4667666671104262e-10,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,7,Schwefel 1.2,3.657796193595176e-15,2.3004997914992702e-15,-1.357296402095906e-15,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,8,Schwefel 2.22,1.133496038600579e-06,2.569485491841596e-14,-1.133496012905724e-06,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,9,Booth,7.651950780643815e-29,4.1020767071492614e-29,-3.549874073494553e-29,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,10,Matyas,5.237092950402386e-33,5.275381281715182e-33,3.828833131279639e-35,0,0,1,1.0,1.0,tie
+quantile_local_refinement,quantile,11,Rosenbrock,0.011488250669161166,0.006374162808748499,-0.005114087860412667,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,12,Beale,8.816136913427011e-30,4.388038785291878e-30,-4.428098128135133e-30,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,13,Three-Hump Camel,7.695038085755008e-30,2.4974632316072277e-30,-5.197574854147781e-30,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,14,Six-Hump Camel,4.440892098500626e-16,4.440892098500626e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,15,Bukin N.6,0.0006122888194706633,0.0006122888194706633,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,16,Dixon-Price,0.12288366433077566,0.013821264107474009,-0.10906240022330166,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,17,Colville,6.117944133270461e-06,1.2519552898587464e-10,-6.117818937741475e-06,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,18,Powell,1.919087322938888e-19,1.919087322938888e-19,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,19,Rastrigin,2.7114310796605423e-11,0.0,-2.7114310796605423e-11,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,20,Ackley,8.839186849129987e-08,1.8207657603852567e-14,-8.839185028364227e-08,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,21,Griewank,4.551914400963142e-14,0.0,-4.551914400963142e-14,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,22,Schwefel,2111.3571386358053,2013.052790179976,-98.30434845582931,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,23,Levy,1.4268222005744488e-05,1.3334051464535603e-09,-1.4266888600598035e-05,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,24,Michalewicz,4.440892098500626e-16,4.440892098500626e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,25,Styblinski-Tang,0.004622054798346653,0.005271110553849212,0.0006490557555025589,0,0,1,1.0,1.0,tie
+quantile_local_refinement,quantile,26,Eggholder,4.150788299739361e-07,4.150788299739361e-07,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,27,Drop-Wave,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,28,Schaffer N.2,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,29,Schaffer N.4,4.274358644806853e-15,3.7309044742528386e-13,3.68816088780477e-13,0,0,1,1.0,1.0,tie
+quantile_local_refinement,quantile,30,De Jong N.5,1.9841013190304588,0.9940270628279703,-0.9900742562024886,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,31,Shekel m=10,5.407929030064546,5.407929030064546,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,32,"Perm d,beta",104068502149873.77,102405658496213.06,-1662843653660.7031,1,0,0,1.0,1.0,tie
+quantile_local_refinement,quantile,33,Branin,1.6653345369377348e-16,1.6653345369377348e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,34,Goldstein-Price,7.149836278586008e-14,7.149836278586008e-14,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,35,Easom,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,36,Hartmann 3D,2.3604881023153723e-06,2.3604881023153723e-06,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,37,Hartmann 4D,2.224003203821212e-10,2.224003203821212e-10,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,38,Hartmann 6D,3.375077994860476e-14,3.419486915845482e-14,4.440892098500626e-16,0,0,1,1.0,1.0,tie
+quantile_local_refinement,quantile,39,Forrester,3.552713678800501e-15,3.552713678800501e-15,0.0,0,1,0,1.0,1.0,tie
+quantile_local_refinement,quantile,40,Katsuura,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,1,Sphere,1.2488270991538769e-17,1.998936509592515e-15,1.986448238600976e-15,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,2,Sum Squares,5.9858325625648105e-12,2.1848624887279284e-10,2.1250041631022804e-10,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,3,Sum Different Powers,2.1138708538321666e-19,4.6423090064325974e-20,-1.6496399531889069e-19,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,4,Rotated Hyper-Ellipsoid,4.857955325604923e-12,4.169760490310601e-10,4.1211809370545517e-10,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,5,Axis Parallel Hyper-Ellipsoid,5.023890373118454e-14,4.295222252449763e-14,-7.286681206686907e-15,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,6,Zakharov,3.980349061630585e-09,9.330373327231973e-09,5.350024265601388e-09,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,7,Schwefel 1.2,3.657796193595176e-15,3.843558440389047e-11,3.8431926607696874e-11,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,8,Schwefel 2.22,1.133496038600579e-06,1.2601983026707397e-07,-1.007476208333505e-06,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,9,Booth,7.651950780643815e-29,7.888609052210118e-30,-6.863089875422803e-29,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,10,Matyas,5.237092950402386e-33,1.2832471273195155e-29,1.2827234180244753e-29,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,11,Rosenbrock,0.011488250669161166,0.005111263545272687,-0.006376987123888479,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,12,Beale,8.816136913427011e-30,8.326919892673543e-28,8.238758523539273e-28,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,13,Three-Hump Camel,7.695038085755008e-30,3.021222764168639e-29,2.251718955593138e-29,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,14,Six-Hump Camel,4.440892098500626e-16,4.440892098500626e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,15,Bukin N.6,0.0006122888194706633,0.0005708570339939101,-4.143178547675317e-05,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,16,Dixon-Price,0.12288366433077566,0.01933446028765549,-0.10354920404312017,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,17,Colville,6.117944133270461e-06,0.10794764309642524,0.10794152515229197,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,18,Powell,1.919087322938888e-19,3.0035342986052945e-19,1.0844469756664066e-19,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,19,Rastrigin,2.7114310796605423e-11,1.290345608140342e-11,-1.4210854715202004e-11,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,20,Ackley,8.839186849129987e-08,2.4457443048575556e-07,1.5618256199445568e-07,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,21,Griewank,4.551914400963142e-14,2.2414292644157285e-12,2.195910120406097e-12,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,22,Schwefel,2111.3571386358053,3401.7872604393506,1290.4301218035453,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,23,Levy,1.4268222005744488e-05,3.1025441151618845e-05,1.6757219145874355e-05,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,24,Michalewicz,4.440892098500626e-16,6.661338147750939e-16,2.220446049250313e-16,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,25,Styblinski-Tang,0.004622054798346653,0.009605754835320113,0.00498370003697346,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,26,Eggholder,4.150788299739361e-07,1.0235453373752534e-08,-4.0484337660018355e-07,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,27,Drop-Wave,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,28,Schaffer N.2,0.0,0.0,0.0,0,1,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,29,Schaffer N.4,4.274358644806853e-15,3.953648912624619e-05,3.953648912197183e-05,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,30,De Jong N.5,1.9841013190304588,1.9841013190304588,0.0,0,1,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,31,Shekel m=10,5.407929030064546,5.407929030064546,0.0,0,1,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,32,"Perm d,beta",104068502149873.77,118701009323287.88,14632507173414.11,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,33,Branin,1.6653345369377348e-16,1.6653345369377348e-16,0.0,0,1,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,34,Goldstein-Price,7.149836278586008e-14,7.638334409421077e-14,4.884981308350689e-15,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,35,Easom,0.0,4.440892098500626e-16,4.440892098500626e-16,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,36,Hartmann 3D,2.3604881023153723e-06,2.360488096986302e-06,-5.329070518200751e-15,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,37,Hartmann 4D,2.224003203821212e-10,2.2238211272451736e-10,-1.8207657603852567e-14,1,0,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,38,Hartmann 6D,3.375077994860476e-14,5.639932965095795e-14,2.2648549702353193e-14,0,0,1,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,39,Forrester,3.552713678800501e-15,3.552713678800501e-15,0.0,0,1,0,1.0,1.0,tie
+quantile_minimum_occupancy,quantile,40,Katsuura,0.0,0.0,0.0,0,1,0,1.0,1.0,tie

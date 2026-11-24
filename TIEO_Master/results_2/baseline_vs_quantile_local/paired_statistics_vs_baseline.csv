@@ -1,0 +1,41 @@
+method,reference_method,benchmark_id,benchmark,mean_error_baseline,mean_error_method,median_paired_difference,run_wins,run_ties,run_losses,wilcoxon_p,holm_p,outcome_vs_baseline
+quantile_local_refinement,baseline,1,Sphere,6.055061827795405e-13,1.6172242507498492e-28,-6.625172487551497e-13,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,2,Sum Squares,1.686223420554522e-10,2.0883499723307993e-29,-4.286205623163136e-16,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,3,Sum Different Powers,1.768468540901857e-19,8.352342758681717e-34,-1.1020876238034047e-20,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,4,Rotated Hyper-Ellipsoid,9.066299950865405e-10,1.997396791699487e-10,-1.9200262667304777e-10,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,5,Axis Parallel Hyper-Ellipsoid,6.758582068185873e-11,4.3518529632013084e-30,-8.436775274937387e-14,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,6,Zakharov,5.2674441754939135e-09,1.3214990818698158e-07,-6.039954703922113e-11,3,0,2,0.8125,1.0,tie
+quantile_local_refinement,baseline,7,Schwefel 1.2,9.448539895381372e-09,1.5419128987022012e-09,1.4354189645352244e-10,2,0,3,1.0,1.0,tie
+quantile_local_refinement,baseline,8,Schwefel 2.22,2.0657053489892594e-06,2.6172824927660647e-14,-2.1531517392352303e-06,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,9,Booth,1.599809915788212e-28,3.210663884249518e-28,-8.283039504820624e-29,4,0,1,0.4375,1.0,tie
+quantile_local_refinement,baseline,10,Matyas,6.403294733786656e-30,6.237117561698623e-30,8.516365720751761e-31,2,0,3,1.0,1.0,tie
+quantile_local_refinement,baseline,11,Rosenbrock,16.28544781382849,0.007604960910195949,-26.98878142213344,4,0,1,0.125,1.0,tie
+quantile_local_refinement,baseline,12,Beale,5.520472907954736e-24,7.054153334813909e-12,-1.4828119827826206e-28,3,0,2,1.0,1.0,tie
+quantile_local_refinement,baseline,13,Three-Hump Camel,3.492685395083922e-30,1.800824901600832e-30,-1.1250250957823072e-30,3,1,1,0.25,1.0,tie
+quantile_local_refinement,baseline,14,Six-Hump Camel,4.440892098500626e-16,4.440892098500626e-16,0.0,0,5,0,1.0,1.0,tie
+quantile_local_refinement,baseline,15,Bukin N.6,0.034316791409368975,0.033034673182203114,0.0,2,1,2,0.875,1.0,tie
+quantile_local_refinement,baseline,16,Dixon-Price,0.4193264754584284,0.275696023572842,-0.010876981133957806,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,17,Colville,1.0370512918537824,7.015164321483e-10,-0.011837144260018454,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,18,Powell,2.6680912981507098e-15,3.8622060377100656e-17,5.735542313426886e-22,2,0,3,0.8125,1.0,tie
+quantile_local_refinement,baseline,19,Rastrigin,4.95333551953081e-11,0.0,-2.495426087989472e-11,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,20,Ackley,8.069419523693e-08,1.8918200339612668e-14,-1.6624856158387047e-08,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,21,Griewank,1.922684234045846e-13,0.0,-1.7397194795876203e-13,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,22,Schwefel,3494.182576273141,2989.533852062915,-486.60105612079496,4,0,1,0.125,1.0,tie
+quantile_local_refinement,baseline,23,Levy,1.4584242630198632e-05,1.3334051464434221e-09,-7.95291208908181e-06,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,24,Michalewicz,2.1382895454280515e-13,5.018208071305708e-15,-2.220446049250313e-16,3,2,0,0.25,1.0,tie
+quantile_local_refinement,baseline,25,Styblinski-Tang,0.669593328986366,0.005271110553849212,-0.42104844782147666,5,0,0,0.0625,1.0,tie
+quantile_local_refinement,baseline,26,Eggholder,27.150660401388176,14.138310626135171,6.0254023992456496e-12,1,1,3,0.75,1.0,tie
+quantile_local_refinement,baseline,27,Drop-Wave,0.0,0.0,0.0,0,5,0,1.0,1.0,tie
+quantile_local_refinement,baseline,28,Schaffer N.2,0.0,0.0,0.0,0,5,0,1.0,1.0,tie
+quantile_local_refinement,baseline,29,Schaffer N.4,8.30094080347732e-05,4.572125953621331e-05,1.1531331445269188e-12,2,0,3,1.0,1.0,tie
+quantile_local_refinement,baseline,30,De Jong N.5,2.7313206584727463,1.582584495159693,6.661338147750939e-16,2,0,3,0.625,1.0,tie
+quantile_local_refinement,baseline,31,Shekel m=10,2.163171612025845,3.2447574180387577,1.7763568394002505e-15,1,1,3,0.5,1.0,tie
+quantile_local_refinement,baseline,32,"Perm d,beta",885023822529828.1,62935827398924.5,50862435276634.7,2,0,3,1.0,1.0,tie
+quantile_local_refinement,baseline,33,Branin,1.6653345369377348e-16,1.6653345369377348e-16,0.0,0,5,0,1.0,1.0,tie
+quantile_local_refinement,baseline,34,Goldstein-Price,1.765876334047789e-12,7.111733424380873e-12,0.0,1,2,2,0.75,1.0,tie
+quantile_local_refinement,baseline,35,Easom,0.0,0.0,0.0,0,5,0,1.0,1.0,tie
+quantile_local_refinement,baseline,36,Hartmann 3D,2.360488100805469e-06,2.3604880987626586e-06,-3.1086244689504383e-15,3,1,1,0.5,1.0,tie
+quantile_local_refinement,baseline,37,Hartmann 4D,0.047614459706926925,0.09522891919145585,0.0,0,3,2,0.5,1.0,tie
+quantile_local_refinement,baseline,38,Hartmann 6D,0.07152365581158264,0.04768243720786893,4.440892098500626e-16,2,0,3,1.0,1.0,tie
+quantile_local_refinement,baseline,39,Forrester,3.552713678800501e-15,3.552713678800501e-15,0.0,0,5,0,1.0,1.0,tie
+quantile_local_refinement,baseline,40,Katsuura,3.1927929181045646e-06,0.0,0.0,1,4,0,1.0,1.0,tie

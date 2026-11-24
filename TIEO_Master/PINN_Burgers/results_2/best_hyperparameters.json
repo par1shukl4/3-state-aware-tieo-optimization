@@ -1,0 +1,18 @@
+{
+  "search_vector": {
+    "log10_learning_rate": -2.0142547902303316,
+    "log10_weight_decay": -3.0,
+    "log10_pde_weight": 0.8880735210493939,
+    "log10_initial_weight": 2.0,
+    "log10_boundary_weight": 0.5539922731890567,
+    "activation_scale": 1.5616283191020102
+  },
+  "decoded": {
+    "learning_rate": 0.009677099573040398,
+    "weight_decay": 0.001,
+    "pde_weight": 7.728114020841637,
+    "initial_weight": 100.0,
+    "boundary_weight": 3.580900660365273,
+    "activation_scale": 1.5616283191020102
+  }
+}
